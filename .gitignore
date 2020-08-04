@@ -1,0 +1,4 @@
+venv/
+.idea/
+blog/__pycache__/
+blogengine/__pycache__/
